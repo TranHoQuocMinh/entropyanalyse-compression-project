@@ -2,9 +2,7 @@
 Phân tích entropy &amp; nén dữ liệu mạng (gzip, Brotli, JSON, Protobuf)
 
 network-compression-project/  
-
 │  
-
 ├── main.py                  # Chạy toàn bộ  
 
 ├── utils.py                 # Hàm chung  
